@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.vertx.tutorial.HttpVerticleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-11T10:56:04" hostname="L3701100198" time="0.697">
+  <properties/>
+  <testcase name="testThatTheServerIsStarted" classname="io.vertx.tutorial.HttpVerticleTest" time="0.697"/>
+  <system-out><![CDATA[http://localhost:8080/
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

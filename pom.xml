@@ -11,7 +11,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <!-- vert.x properties -->
         <vertx.version>3.8.3</vertx.version>
-        <vertx.verticle>io.vertx.tutorial.MainVerticle</vertx.verticle>
+        <vertx.verticle>io.vertx.tutorial.HttpVerticle</vertx.verticle>
 
     </properties>
 
