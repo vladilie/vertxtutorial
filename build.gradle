@@ -25,6 +25,9 @@ dependencies {
     compile "io.vertx:vertx-core:3.8.3"
     compile "io.vertx:vertx-lang-kotlin:3.8.3"
     runtime "org.jetbrains.kotlin:kotlin-reflect"
+    compile "io.vertx:vertx-web:3.8.3"
+    compile "io.vertx:vertx-web-client:3.8.3"
+    compile "javax.ws.rs:javax.ws.rs-api:2.0"
 }
 
 group = 'io.vertx.tutorial'
